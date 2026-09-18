@@ -79,7 +79,7 @@
      background-color: gray;
      width: 50%;
      height: 800px;
-     background-image: url('/images/ivory-flow-01.jpg');
+     background-image: url('ivory-flow-01.jpg');
      background-position: center;
      background-size: cover;
      background-repeat: no-repeat;
@@ -196,7 +196,7 @@
  .chair {
      width: 50%;
      height: 570px;
-     background-image: url('/images/ivory-flow-51.jpg');
+     background-image: url('ivory-flow-51.jpg');
      background-position: center;
      background-size: cover;
      background-repeat: no-repeat;
@@ -372,7 +372,7 @@
  .layer5 {
      width: 100%;
      height: 650px;
-     background-image: url("/images/ivory-flow-61.jpg");
+     background-image: url("ivory-flow-61.jpg");
      background-position: center;
      background-size: cover;
      background-repeat: no-repeat;
